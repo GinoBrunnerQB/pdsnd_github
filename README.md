@@ -3,7 +3,7 @@
 ### Date created
 2022-02-07
 
-### Udacity GitHub Course Project
+### Udacity GitHub Final Course Project
 
 ### Description
 Repo for the final project of the Udacity GitHub Course.
