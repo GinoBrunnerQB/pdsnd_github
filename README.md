@@ -6,4 +6,6 @@
 ### Udacity GitHub Course Project
 
 ### Description
-Repo for the final project of the Udacity GitHub Course
+Repo for the final project of the Udacity GitHub Course.
+
+The project uses the bikeshare dataset.
