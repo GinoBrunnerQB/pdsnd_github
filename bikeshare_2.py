@@ -23,7 +23,7 @@ def get_filters():
     month = input("Enter month for filtering: ")
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    day_of_week = input("Enter day of week for filtering: ")
 
     print('-'*40)
     return city, month, day
